@@ -1,13 +1,13 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding / Class: <1AHIF>
+ *				HTBLA-Leonding / Class: 1AHIF
  * ---------------------------------------------------------
  * Exercise Number: 1
- * Title:			<Hello World>
- * Author:			<Moritz Eichhorn>
+ * Title:			Hello World
+ * Author:			Moritz Eichhorn
  * ----------------------------------------------------------
  * Description:
- * <Just prints out Hello Moritz Eichhorn
- * >
+ * Just prints out Hello Moritz Eichhorn
+ * 
  * ----------------------------------------------------------
  */
 
